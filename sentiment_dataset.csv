@@ -1,0 +1,16 @@
+id,source,date,text,sentiment,emotion,product_category
+1,Amazon,2020-05-01,"This phone is amazing, battery life is great!",Positive,Happy,Electronics
+2,Amazon,2020-05-02,"Very bad product, stopped working in 2 days",Negative,Angry,Electronics
+3,Amazon,2020-05-03,"Average quality, nothing special",Neutral,Neutral,Electronics
+4,Twitter,2020-06-01,I love this new update,Positive,Excited,General
+5,Twitter,2020-06-02,"This app keeps crashing, very annoying",Negative,Angry,General
+6,Twitter,2020-06-03,"It's okay, not bad",Neutral,Neutral,General
+7,News,2020-07-01,Economy shows strong recovery after pandemic,Positive,Happy,General
+8,News,2020-07-02,Unemployment rises sharply causing concern,Negative,Fear,General
+9,News,2020-07-03,Government announces new policies,Neutral,Neutral,General
+10,Amazon,2020-08-01,"Excellent quality shoes, very comfortable",Positive,Happy,Fashion
+11,Amazon,2020-08-02,Size was wrong and material feels cheap,Negative,Disappointed,Fashion
+12,Twitter,2020-08-03,"Just bought new shoes, looks good!",Positive,Excited,Fashion
+13,News,2020-09-01,Market remains stable amid global uncertainty,Neutral,Neutral,General
+14,Twitter,2020-09-02,"Worst experience ever, waste of money",Negative,Angry,General
+15,Amazon,2020-09-03,Good value for money,Positive,Happy,Electronics
